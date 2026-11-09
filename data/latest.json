@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-08T02:10:29+00:00",
-  "take": "US crude imports from Venezuela averaged 701,000 b/d in July, the highest since May 2017 before easing to 655,000 b/d in August, which matters because it adds heavy sour supply into the US Gulf Coast at a time when refiners are already running above 95% utilisation between May and September, the highest for those months since 1998. The more important signal is the yield shift: exceptionally high distillate and jet margins have pulled refinery output away from gasoline towards middle distillates, so the product complex is where the tightness sits rather than at the crude end. On freight, oil traders are lobbying Washington to release sanctioned tankers as a global vessel shortage pushes transportation costs to extraordinary levels, and with the shipbuilding orderbook up three and a half times since 2020 against only 30% yard capacity growth, the delivery crunch into 2028 keeps tanker earnings structurally bid. The inventory angle is thin on hard numbers today, but the Q2 global refinery run cut of 4.8 million b/d, or 6%, following the late-February Middle East conflict implies a drawdown that has not been fully rebuilt, so any crude length is likely sitting in floating or sanctioned tonnage rather than onshore. Cross-market, watch the gasoil-bunker spread: distillate-led refinery economics support middle distillate cracks whilst HSFO availability hinges on whether sanctioned barrels return to service, and a 15-month suezmax charter worth $73.1m to $82.2m shows owners are locking in elevated rates rather than betting on spot. For the next 24 hours, track any US signal on sanctioned tanker releases, the COP31 electrification narrative for medium-term gasoil demand destruction, and the IEA warning that the global gas market could stay tight well into 2027, which keeps the gas-to-oil switching tail alive.",
+  "generated_at_utc": "2026-11-09T02:30:06+00:00",
+  "take": "US crude imports from Venezuela hit 701,000 b/d in July, the highest since 2017 before easing to 655,000 b/d in August, which matters because heavy sour barrels are exactly what US refiners need whilst they run above 95% utilisation and tilt yields towards middle distillates on fat jet and diesel margins. On the shipping side, the orderbook has grown three and a half times since 2020 against only 30% yard capacity growth, setting up a 2028 delivery crunch that will eventually loosen tanker and bulker supply but does nothing for prompt freight. The inventory angle is the distillate pull: refiners maximising middle distillate output after global crude runs fell 4.8 million b/d, or 6%, in 2Q26 means gasoil and jet stocks stay tight relative to gasoline, so watch product cracks rather than flat price for the real signal. Cross-market, the Capital Tankers 15-month suezmax fixture worth $73.1m to $82.2m and Venergy doubling its VLCC order at Hengli show owners still committing capital to tonne-miles even as the forward delivery wave builds. Iraq claiming output above 5 million b/d complicates its OPEC quota push and is the bearish supply tail risk to watch, alongside any Democratic-controlled Congress noise on Venezuelan oil deals.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,36 @@
       "count": 8,
       "items": [
         {
+          "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html",
+          "published": "Sun, 08 Nov 2026 18:00:00 -0600",
+          "summary": "Iraq's campaign for a larger OPEC production allocation has taken a complicated turn after Oil Minister Basim Mohammed Khudair said the country is already producing more than 5 million barrels per day, more than half a million barrels above its current OPEC+ requirement. Khudair’s statement raises a basic question over Iraq’s current production as OPEC prepares to set production levels for 2027. J"
+        },
+        {
+          "title": "Democratic Win Set to Reshuffle U.S. Energy Policy",
+          "link": "https://oilprice.com/Energy/Energy-General/Democratic-Win-Set-to-Reshuffle-US-Energy-Policy.html",
+          "published": "Sun, 08 Nov 2026 16:00:00 -0600",
+          "summary": "The blue wave in the midterm elections that will put Democrats in charge of the House and Senate could reshape U.S. energy policies. Democrats in charge of both chambers of Congress and its key committees, Democratic governors in key data-center development states such as Ohio, Georgia, and Texas, a Democrat in Georgia’s utilities regulator, and the first Democratic member of the Texas oil regulat"
+        },
+        {
+          "title": "The Global Race to Harness Solar Power From Space",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html",
+          "published": "Sun, 08 Nov 2026 14:00:00 -0600",
+          "summary": "Several countries around the globe are racing to develop space-based solar power (SBSP) systems to harness solar power from space. On Earth, solar power has become a popular form of renewable energy production. However, tapping solar power is limited by night, cloud cover, atmospheric conditions, and seasonality. Roughly 30 per cent of all incoming solar radiation never makes it to ground level. M"
+        },
+        {
+          "title": "How Big Oil Became the AI Industry's Favorite Customer",
+          "link": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html",
+          "published": "Sun, 08 Nov 2026 12:00:00 -0600",
+          "summary": "Artificial intelligence companies are deepening their ties with the fossil fuel industries as some of the biggest names in the tech world make massive deals with energy companies, both to power their energy-hungry data centers and to embed machine learning into the energy sector itself. Already, the artificial intelligence boom is causing a natural gas surge in the United States, and experts expec"
+        },
+        {
+          "title": "How New York Plans to Turn Waste Heat Into Clean Energy",
+          "link": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html",
+          "published": "Sun, 08 Nov 2026 10:00:00 -0600",
+          "summary": "District heating has been around for almost 150 years, with the first commercial system established in New York in 1877, yet it is still not widely used. The original systems used steam produced by a central fossil-fuel boiler. However, systems have evolved over time, and modern heating networks have more flexible infrastructure that can connect multiple energy and storage solutions to supply both"
+        },
+        {
           "title": "Wars May Spur Faster Electrification",
           "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
           "published": "Sat, 07 Nov 2026 18:00:00 -0600",
@@ -81,36 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
           "published": "Sat, 07 Nov 2026 14:00:00 -0600",
           "summary": "The Egyptian government is doubling down on its plans to accelerate the development of its oil and gas resources. Egypt now aims to achieve a production capacity of 6.6 billion cubic feet per day by 2027, supported by increased drilling, new exploration incentives, and greater investment from international oil and gas majors. In October, the Egyptian Minister of Petroleum and Mineral Resources, Ka"
-        },
-        {
-          "title": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
-          "link": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Advances-Despite-Geopolitical-Resistance.html",
-          "published": "Sat, 07 Nov 2026 12:00:00 -0600",
-          "summary": "Armenian officials have commenced design work for the TRIPP trade corridor, even though an operating agreement with the United States remains to be finalized. US and Armenian officials announced in January a preliminary agreement outlining the establishment of an entity, TRIPP Development, that would manage the corridor. The agreement sketched TRIPP Development’s ownership structure but left opera"
-        },
-        {
-          "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
-          "link": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
-          "published": "Sat, 07 Nov 2026 10:00:00 -0600",
-          "summary": "Just a few years ago, the United States was developing new hydrogen hubs to support energy diversification and help achieve a green transition. However, the development of these fuel hubs has not proceeded as expected, with several major projects stalling and political support faltering. The Biden administration showed broad support for hydrogen production, aiming to massively expand the sector an"
-        },
-        {
-          "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
-          "published": "Fri, 06 Nov 2026 17:00:00 -0600",
-          "summary": "As we head into the United Nations’ 31st annual flagship climate conference (COP31), to be held next week in Antalya, Türkiye, greenwashing presents a large and growing problem in the private sector. As the tech sector’s greenhouse gas emissions explode against the backdrop of the artificial intelligence boom and the clean energy incentives dry up under the Trump administration, Big Tech and Wall "
-        },
-        {
-          "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
-          "published": "Fri, 06 Nov 2026 15:00:00 -0600",
-          "summary": "The United States boasts the largest nuclear power production capacity in the world, but decades of insufficient funding and policy support is now posing an existential threat to the ageing sector. In the past decade, the United States has added just one new nuclear power plant to its fleet, while many more plants are drawing close to being decommissioned, at a time when clean, round-the-clock ene"
-        },
-        {
-          "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
-          "published": "Fri, 06 Nov 2026 14:30:00 -0600",
-          "summary": "Some of the world's biggest oil traders are asking Washington for permission to put sanctioned tankers back to work, as a global vessel shortage pushes oil transportation costs to extraordinary levels. Trafigura, Vitol, Mercuria and Abu Dhabi National Oil Co. are negotiating with U.S. officials for licenses to purchase or lease blacklisted oil tankers, Bloomberg reported Friday, citing people fami"
         }
       ]
     },
@@ -121,16 +121,16 @@
       "count": 8,
       "items": [
         {
-          "title": "DenAr takes on Turkey’s first offshore wind seabed survey campaign",
-          "link": "https://splash247.com/denar-takes-on-turkeys-first-offshore-wind-seabed-survey-campaign/",
-          "published": "Fri, 06 Nov 2026 12:00:00 +0000",
-          "summary": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country&#8217;s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey&#8217;s first offshore wind development programme. The NCS-01 project covers two areas in the Sea of Marmara and forms part of the government initiative to prepare &#8230;"
-        },
-        {
           "title": "Khalid Hashim set to pass the baton at Precious Shipping",
           "link": "https://splash247.com/khalid-hashim-set-to-pass-the-baton-at-precious-shipping/",
           "published": "Fri, 06 Nov 2026 11:02:21 +0000",
           "summary": "Thailand&#8217;s Precious Shipping is preparing a change at the top, with longtime managing director Khalid Moinuddin Hashim moving to executive vice chairman and finance chief Gautam Khurana taking over the running of the Bangkok-listed dry bulk owner. The company&#8217;s board approved the leadership reshuffle, with both appointments taking effect on January 1, 2027, according to &#8230;"
+        },
+        {
+          "title": "DenAr takes on Turkey’s first offshore wind seabed survey campaign",
+          "link": "https://splash247.com/denar-takes-on-turkeys-first-offshore-wind-seabed-survey-campaign/",
+          "published": "Fri, 06 Nov 2026 11:00:00 +0000",
+          "summary": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country&#8217;s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey&#8217;s first offshore wind development programme. The NCS-01 project covers two areas in the Sea of Marmara and forms part of the government initiative to prepare &#8230;"
         },
         {
           "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
@@ -241,45 +241,45 @@
       "count": 7,
       "items": [
         {
-          "title": "Global gas market could remain tight well into 2027, IEA warns",
-          "link": "https://seekingalpha.com/news/4668739-global-gas-market-could-remain-tight-well-into-2027-iea-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 20:35:23 -0500",
+          "title": "AbbVie reports improved facial satisfaction among weight-loss drug users",
+          "link": "https://seekingalpha.com/news/4668783-abbvie-reports-improved-facial-satisfaction-among-weight-loss-drug-users?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 20:33:09 -0500",
           "summary": ""
         },
         {
-          "title": "Paraguay’s bank collapse topples president, raises investor risks",
-          "link": "https://seekingalpha.com/news/4668738-paraguays-bank-collapse-topples-president-raises-investor-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 17:33:20 -0500",
+          "title": "Rubio casts doubt on Iran peace deal as Trump signals reluctance to resume strikes",
+          "link": "https://seekingalpha.com/news/4668781-rubio-casts-doubt-on-iran-peace-deal-as-trump-signals-reluctance-to-resume-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 19:18:22 -0500",
           "summary": ""
         },
         {
-          "title": "Key deals this week: PANW, META, OGI, CRM and more",
-          "link": "https://seekingalpha.com/news/4668734-key-deals-this-week-panw-meta-ogi-crm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 15:15:42 -0500",
+          "title": "Vir Biotechnology reports positive hepatitis results, early signs of possible cure",
+          "link": "https://seekingalpha.com/news/4668779-vir-biotechnology-reports-positive-hepatitis-results-early-signs-of-possible-cure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 18:27:14 -0500",
           "summary": ""
         },
         {
-          "title": "Musk says Tesla Cybertruck demand is outpacing production",
-          "link": "https://seekingalpha.com/news/4668737-musk-says-tesla-cybertruck-demand-is-outpacing-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 14:05:43 -0500",
+          "title": "Asian stocks face new pressure as Nvidia spy probe rattles tech sector",
+          "link": "https://seekingalpha.com/news/4668780-asian-stocks-face-new-pressure-as-nvidia-spy-probe-rattles-tech-sector?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 18:12:00 -0500",
           "summary": ""
         },
         {
-          "title": "Nvidia CEO was romantically involved with alleged Chinese spy, U.S. memo says: FT",
-          "link": "https://seekingalpha.com/news/4668736-nvidia-ceo-romantically-involved-alleged-chinese-spy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 13:30:27 -0500",
+          "title": "Here are the major earnings before the open Monday",
+          "link": "https://seekingalpha.com/news/4668744-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 18:04:38 -0500",
           "summary": ""
         },
         {
-          "title": "Bulls vs. Bears: NVIDIA sparks valuation debate as stock nears six-month low",
-          "link": "https://seekingalpha.com/news/4668735-nvidia-sparks-valuation-debate-after-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 12:43:27 -0500",
+          "title": "Nuclear stocks surge as Oklo results spark rally for reactors, uranium suppliers",
+          "link": "https://seekingalpha.com/news/4668778-nuclear-stocks-surge-as-oklo-results-spark-rally-for-reactors-uranium-suppliers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 17:51:30 -0500",
           "summary": ""
         },
         {
-          "title": "Real estate stocks gain as the Blue Wave sends Treasury yields lower",
-          "link": "https://seekingalpha.com/news/4668540-real-estate-stocks-gain-as-the-blue-wave-sends-treasury-yields-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Sat, 07 Nov 2026 12:00:28 -0500",
+          "title": "Mind Medicine Q3 2026 Earnings Preview",
+          "link": "https://seekingalpha.com/news/4668129-mind-medicine-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sun, 08 Nov 2026 17:35:51 -0500",
           "summary": ""
         }
       ]
@@ -347,52 +347,52 @@
       "count": 8,
       "items": [
         {
-          "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-          "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 20:48:00 GMT",
-          "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72."
+          "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+          "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+          "published": "Mon, 09 Nov 2026 01:21:00 GMT",
+          "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”"
         },
         {
-          "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+          "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+          "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+          "published": "Mon, 09 Nov 2026 00:40:00 GMT",
+          "summary": "The large-cap index is nowhere near as diversified as you think."
+        },
+        {
+          "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
           "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 20:36:00 GMT",
+          "published": "Mon, 09 Nov 2026 00:30:00 GMT",
           "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”"
-        },
-        {
-          "title": "Here are the 2027 capital-gains tax rates for each income level",
-          "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 19:48:00 GMT",
-          "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information."
-        },
-        {
-          "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-          "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 19:20:00 GMT",
-          "summary": "Don’t sit on the sidelines during open enrollment."
-        },
-        {
-          "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-          "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 17:43:00 GMT",
-          "summary": "There are many ideas for saving Social Security. All of them will hurt."
-        },
-        {
-          "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-          "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 17:33:00 GMT",
-          "summary": "Math may be cold and unemotional — but finances are not."
-        },
-        {
-          "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-          "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 17:04:00 GMT",
-          "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago."
         },
         {
           "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
           "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-          "published": "Sat, 07 Nov 2026 17:01:00 GMT",
+          "published": "Mon, 09 Nov 2026 00:02:00 GMT",
           "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”"
+        },
+        {
+          "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+          "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+          "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+          "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says."
+        },
+        {
+          "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+          "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+          "published": "Sun, 08 Nov 2026 23:50:00 GMT",
+          "summary": "The math should actually start with “if” — not “how much.”"
+        },
+        {
+          "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+          "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+          "published": "Sun, 08 Nov 2026 23:49:00 GMT",
+          "summary": "Math may be cold and unemotional — but finances are not."
+        },
+        {
+          "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+          "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+          "published": "Sun, 08 Nov 2026 23:35:00 GMT",
+          "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72."
         }
       ]
     },
@@ -403,52 +403,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
-          "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 21:03:47 GMT",
-          "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition"
+          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+          "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+          "published": "Mon, 09 Nov 2026 01:08:15 GMT",
+          "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees"
         },
         {
-          "title": "Trump’s defeat heralds a US retreat",
-          "link": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 05:00:34 GMT",
-          "summary": "American retrenchment could change Middle East balance of power and signify opportunities for China"
+          "title": "‘Radical left’ get the headlines but centrists dominate new US Congress",
+          "link": "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1",
+          "published": "Sun, 08 Nov 2026 05:00:19 GMT",
+          "summary": "Most of the Democrats who swept to power in the midterms blue wave are moderates"
         },
         {
-          "title": "The mother of all American course corrections",
-          "link": "https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 05:00:33 GMT",
-          "summary": "US midterms are the latest confirmation that reports of the death of liberal democracy have been much exaggerated"
+          "title": "A new economic agenda for America",
+          "link": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
+          "published": "Sun, 08 Nov 2026 16:00:00 GMT",
+          "summary": "Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living"
         },
         {
-          "title": "Gillian Tett: Why does America hate AI?",
-          "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 05:00:13 GMT",
-          "summary": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic"
+          "title": "America is craving a return to community",
+          "link": "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1",
+          "published": "Sun, 08 Nov 2026 05:00:19 GMT",
+          "summary": "The midterms are only the latest sign of hope"
         },
         {
-          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 21:41:05 GMT",
-          "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group"
+          "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+          "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+          "published": "Sun, 08 Nov 2026 18:10:24 GMT",
+          "summary": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers"
         },
         {
-          "title": "Gunman kills six in Kraków shooting",
-          "link": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 22:00:14 GMT",
-          "summary": "Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident"
+          "title": "Republican infighting mounts over corruption claims after midterms wipeout",
+          "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+          "published": "Sun, 08 Nov 2026 12:51:25 GMT",
+          "summary": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words"
         },
         {
-          "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-          "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 16:43:06 GMT",
-          "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year"
+          "title": "China’s inflation edges lower in October",
+          "link": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1",
+          "published": "Mon, 09 Nov 2026 02:01:28 GMT",
+          "summary": "Weak domestic demand weighs on prices in world’s second-largest economy even as higher energy prices drive up costs for producers"
         },
         {
-          "title": "How Wall Street’s all-in bet on AI blew up",
-          "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
-          "published": "Sat, 07 Nov 2026 05:00:31 GMT",
-          "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets"
+          "title": "Pope Leo and Javier Milei offer duelling visions for Argentina",
+          "link": "https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6=1",
+          "published": "Mon, 09 Nov 2026 00:38:18 GMT",
+          "summary": "Pontiff’s speech included what many interpreted as veiled criticism of the president’s austerity measures"
         }
       ]
     },
