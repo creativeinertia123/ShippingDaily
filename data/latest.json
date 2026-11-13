@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-12T03:41:15+00:00",
-  "take": "US crude imports from Venezuela averaged 701,000 b/d in July, the highest since 2017 before easing to 655,000 b/d in August, which matters because heavy sour replacement barrels are loosening the Atlantic Basin crude slate just as US refiners run above 95% utilisation and push yields towards middle distillates on strong distillate and jet margins. On the freight side, Volare’s $210m Trafigura-linked VLCC newbuilding and Torm’s eight-ship LR2 programme at Yangzijiang point to continued tanker capacity expansion, whilst Monjasa’s five-tanker product carrier swoop from Bernhard Schulte signals bunker suppliers positioning for marine fuels volumes rather than any near-term tightening in tonne-miles. The inventory angle is the refinery yield shift itself: with global crude runs having fallen 4.8 million b/d, or 6%, in 2Q26 before a modest recovery, the marginal barrel is being pulled towards distillate, so watch gasoil and jet cracks rather than gasoline for the cleaner signal. The cross-market link sits in the middle distillate complex versus bunker: high distillate margins incentivise maximum middle-distillate yield, which competes with VLSFO availability for the bunker pool, so a widening gasoil–HSFO spread would squeeze scrubber economics and support higher-sulphur bunker demand. For the next 24 hours, watch the weekly EIA petroleum status report for confirmation that utilisation stays above 95% and distillate stocks draw, plus any crude reaction to the Nvidia board headlines dragging Nasdaq-100 futures lower, which could feed through risk sentiment into flat price.",
+  "generated_at_utc": "2026-11-13T03:18:08+00:00",
+  "take": "Brent's roughly 20% slide from the late-October peak of $118 to around $94 is doing the heavy lifting across the curve, with peace hopes in the Middle East and Russia-Ukraine offsetting Iran escalation risk, whilst EIA data showing refiners shifting yields away from gasoline towards middle distillates and jet confirms the distillate-led margin structure that has driven US refinery utilisation above 95% between May and September, the highest since 1998. On the freight side, Brazil's record soybean exports—already exceeding the whole of 2025 in the first ten months—are the cleanest bullish tonne-mile signal for the Capesize and Panamax complex, reinforced by Seanergy committing a further $264m across four bulkers to take its programme to $855m, even as global refinery runs fell 4.8m b/d (6%) in 2Q26 before a modest recovery. The inventory angle cuts both ways: US crude imports from Venezuela hit 701,000 b/d in July, the highest since 2017, before easing to 655,000 b/d in August, adding heavy sour length to the Gulf Coast at the margin, whilst Alaskan output is forecast to grow 13% in 2027 on the back of two North Slope projects adding 23,000 b/d—a slow-burn bearish offset rather than a near-term flow. The cross-market link to watch is the distillate-bunker spread: with Asian spot LNG above $30/mmBtu and Europe entering winter on its lowest gas inventory of the 2020s, gasoil cracking strength should keep VLSFO-HSFO and scrubber economics in play, and the ethanol-as-marine-fuel chatter only matters at the margin until methanol-capable tonnage scales. Next 24 hours: watch whether the $94 area holds as peace headlines compete with Iran risk, track the distillate crack for confirmation of the yield shift, and keep an eye on Capesize fixtures out of Brazil to validate the soybean tonne-mile story.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+          "published": "Thu, 12 Nov 2026  09:00:00 EST",
+          "summary": "After decades of decline, crude oil production in Alaska is growing, driven by two projects on Alaska's North Slope. In our latest Short-Term Energy Outlook, we expect a 23,000 barrels per day (b/d) (6%) increase in 2026, followed by a 60,000 b/d (13%) rise in 2027. At a forecast 505,000 b/d in 2027, output would be the most since 2014."
+        },
         {
           "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68325",
           "published": "Mon, 19 Oct 2026  09:00:00 EST",
           "summary": "In the third quarter of 2026 (3Q26), 23% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, down slightly from 24% in 3Q25. Between 3Q25 and 3Q26, hybrid electric vehicles continued to gain market share, reaching 16% of light-duty vehicle sales. Growth of hybrid electric vehicle sales has slowed this quarter as the aver"
-        },
-        {
-          "title": "U.S. small-scale solar generation has quadrupled in the last decade",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68324",
-          "published": "Fri, 16 Oct 2026  09:00:00 EST",
-          "summary": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country-California, Arizona, Texas, and Florida-are in regions with more abundant solar resources. Even though it is in "
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
-          "published": "Wed, 11 Nov 2026 19:00:00 -0600",
-          "summary": "Situated off California’s Santa Barbara coast, the Santa Ynez project operated by Sable Offshore has become a litmus test of President Trump’s determination to revive oil production in a state pursuing a future beyond it. After a decade of shutdowns, its return depended on the Trump administration’s intervention in a prolonged regulatory battle. Originally developed by ExxonMobil, the Santa Ynez c"
+          "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
+          "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
+          "published": "Thu, 12 Nov 2026 19:00:00 -0600",
+          "summary": "On November 3, retired four-star General Jack Keane, the Army's former Vice Chief of Staff, put a warning on the record: China \"has made clear it is prepared to use [America’s] dependence as leverage.\" The dependence he's talking about is America's reliance on Chinese rare earths. And he didn't say it from a cable news set. He said it as a director of REalloys [NASDAQ: ALOY], the company the Army "
         },
         {
-          "title": "Global Power Grid Expansion Surges 50% to Record High",
-          "link": "https://oilprice.com/Energy/Energy-General/Global-Power-Grid-Expansion-Surges-50-to-Record-High.html",
-          "published": "Wed, 11 Nov 2026 18:00:00 -0600",
-          "summary": "Utilities built a total of over 21,000 km of new transmission lines last year, the International Renewable Energy Agency reported this week at COP31, citing data from a group called the Utilities for Net Zero Alliance. This is 50% more than the new transmission lines installed during the previous year, IRENA noted in its report. “Power grids will make or break not only the energy transition but al"
+          "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+          "published": "Thu, 12 Nov 2026 18:00:00 -0600",
+          "summary": "Oil prices have crashed about 20% from the late-October peak of $118 per barrel, weighed down by hopes of sustainable de-escalation in the Middle East and the Russia-Ukraine war. For months, traders and hedge funds have often bet on a resolution of the conflicts, only to reactivate buying when talks fall apart. As U.S.-mediated talks between Ukraine and Russia are underway, there are no signs of a"
         },
         {
-          "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fusions-Next-Race-Is-Over-Superconducting-Tape-Not-Plasma.html",
-          "published": "Wed, 11 Nov 2026 17:00:00 -0600",
-          "summary": "The race to build the world’s first commercial fusion power plant has moved out of the physics lab and onto the factory floor. Private investors poured a record $4.48 billion into fusion last year, a 69% jump, bringing the industry’s total since 2021 to $14.24 billion. According to the Fusion Industry Association, 71% of the 56 private fusion companies it surveyed expect to deliver power to the gr"
+          "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Ends-19-Year-Power-Monopoly-With-Oil-Fields-First-in-Line.html",
+          "published": "Thu, 12 Nov 2026 17:00:00 -0600",
+          "summary": "Venezuela is opening up its electricity sector to private capital for the first time since Hugo Chávez nationalized it in 2007, in a reform passed this week primarily to benefit oil producers and large businesses that can afford euro-pegged tariffs, while the state keeps the hydroelectric dams and main transmission lines that supply most households living with daily blackouts. The law, which the N"
         },
         {
-          "title": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
-          "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
-          "published": "Wed, 11 Nov 2026 16:00:00 -0600",
-          "summary": "Can quantum computing save artificial intelligence from itself? The energy and water needs of the AI sector are growing larger all the time, placing enormous pressure on the world’s finite resources and putting unprecedented strain on global energy grids. There is no closing Pandora’s box: AI is here to stay. So how do we change its functionality to keep its operations and growth projections withi"
+          "title": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
+          "link": "https://oilprice.com/Energy/Crude-Oil/More-Drilling-Wont-Shield-US-Consumers-From-Oil-Price-Shocks.html",
+          "published": "Thu, 12 Nov 2026 16:00:00 -0600",
+          "summary": "Another month, another distressing Consumer Price Index report. As the war in Iran drags on, inflation in the United States is remaining stubbornly high, driven in large part by sky-high food and energy costs. Overall, prices rose four-tenths of a percent over the last month, and are expected to finish the year at a four percent increase as compared to 2025 – a blistering increase that reflected i"
         },
         {
-          "title": "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks in Shenzhen",
-          "link": "https://oilprice.com/Metals/Commodities/Yttriums-125-Fold-Price-Gap-Looms-Over-Trump-Xi-Talks-in-Shenzhen.html",
-          "published": "Wed, 11 Nov 2026 15:00:00 -0600",
-          "summary": "China bought itself two more months on Monday by extending the pause on its sweeping October 2025 rare earth export controls to Jan. 10, Reuters reported, but the metal squeezing buyers hardest right now was never covered by it. That metal is yttrium, which sits under a separate set of licensing rules Beijing imposed in April 2025 on seven medium and heavy rare earths. When the pause began last No"
+          "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Enters-Winter-With-Its-Lowest-Gas-Inventory-of-the-2020s.html",
+          "published": "Thu, 12 Nov 2026 15:00:00 -0600",
+          "summary": "Asian spot LNG is trading above $30 per million British thermal units and Europe is entering winter with its lowest gas inventory of the 2020s, yet Rystad Energy stops short of predicting a further rally. In its winter LNG outlook, published this week, the consultancy lays out as many ways for prices to fall as to rise and tells buyers to plan for a wide range of outcomes instead of one base case."
         },
         {
-          "title": "Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero",
-          "link": "https://oilprice.com/Energy/Energy-General/Burnham-Heads-to-COP31-Torn-Between-Cheaper-Power-and-Net-Zero.html",
-          "published": "Wed, 11 Nov 2026 14:00:00 -0600",
-          "summary": "Andy Burnham will face difficult decisions on energy policy against the competing pressures of sky-high industrial costs and Labour’s net zero commitments. Mauricio Alencar looks at the trade-offs facing the government before the Prime Minister’s COP 31 visit. While it didn’t make the headlines, Chancellor John Healey’s Budget speech signalled a huge shift in positioning from previous governments "
+          "title": "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/7-Billion-in-Oil-Debt-Has-Nigerian-Banks-Holding-Back-Lending.html",
+          "published": "Thu, 12 Nov 2026 14:30:00 -0600",
+          "summary": "A few Nigerian oil and gas companies owe local banks about $7 billion, and the fallout is reaching well beyond those borrowers, according to billionaire Aliko Dangote. Most domestic bank financing for the industry is now on hold, Dangote told the Nigerian Association of Petroleum Explorationists conference in Lagos Wednesday. “A few companies, I believe, owe the banks about $7bn,” he said. “As a r"
         },
         {
-          "title": "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Draws-Boycott-Call-Over-Israeli-Gas-Licenses.html",
-          "published": "Wed, 11 Nov 2026 13:30:00 -0600",
-          "summary": "Pro-Palestinian activists who pressured Eni and Dana Petroleum to quit an Israeli offshore gas venture are now going after Murphy Oil, the Houston-based company that replaced them on Monday. The Boycott, Divestment and Sanctions movement and its partners called on Murphy on Wednesday to give up the six Zone G exploration licenses it holds 50-50 with Israel’s Ratio Energies. The licenses cover abou"
+          "title": "Central Asia’s B20 Message to Washington: Let’s Make Deals",
+          "link": "https://oilprice.com/Geopolitics/International/Central-Asias-B20-Message-to-Washington-Lets-Make-Deals.html",
+          "published": "Thu, 12 Nov 2026 14:00:00 -0600",
+          "summary": "Large Kazakh and Uzbek delegations attending the B20 business summit in Washington delivered a clear message to their American hosts: let’s make more deals. The US Chamber of Commerce-hosted three-day event, which concluded November 11, was framed as “a platform for the private sector to address shared economic challenges, identify opportunities for investment and innovation, and advance solutions"
         },
         {
-          "title": "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade",
-          "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Its-Central-Asian-Footprint-Through-Aviation-Energy-and-Trade.html",
-          "published": "Wed, 11 Nov 2026 13:00:00 -0600",
-          "summary": "China and Central Asia are acting fast to expand air links. Chinese and Central Asian aviation officials gathered in Tashkent on November 3-5 for a Working Group session under the C5+1 format to improve implementation of existing agreements and review expansion plans. During the meeting, Kazakhstan agreed to raise permitted weekly flights from 150 to 180 and add routes to Chengdu and Kashgar. Uzbe"
+          "title": "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
+          "link": "https://oilprice.com/Energy/Energy-General/Record-Car-Prices-Are-Pushing-American-Drivers-Deeper-Into-Debt.html",
+          "published": "Thu, 12 Nov 2026 13:00:00 -0600",
+          "summary": "The average price of a new vehicle in the US has climbed to a record $51,109, according to a new Cox Automotive report citing Kelley Blue Book data. Combined with new-car loan rates near their highest levels since the mid-2000s, record sticker prices are putting vehicle ownership increasingly out of reach for many working-class folks, even before insurance, fuel and maintenance costs are factored "
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Geneva Dry: Belships’ Ivar Hansson Myklebust on China’s changing commodities role",
-          "link": "https://splash247.com/geneva-dry-belships-ivar-hansson-myklebust-on-chinas-changing-commodities-role/",
-          "published": "Wed, 11 Nov 2026 20:12:00 +0000",
-          "summary": "Ivar Hansson Myklebust, chair and CEO of Norway&#8217;s Belships, believes the shipping industry continues to underestimate the growth potential of developing economies. Ahead of his appearance at Geneva Dry 2027, he discusses China&#8217;s changing trading patterns, fleet supply and the opportunities emerging across minor bulks. A changing China, resilient emerging economies and a relatively pred"
+          "title": "New report identifies Hong Kong’s place in world shipping",
+          "link": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/",
+          "published": "Thu, 12 Nov 2026 20:00:00 +0000",
+          "summary": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials. A ship can be ordered at a mainland Chinese yard, owned through a leasing company in Hong Kong, insured in London, crewed through a management operation in Asia and chartered &#8230;"
         },
         {
-          "title": "Maersk hit by fresh cyber breach",
-          "link": "https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
-          "published": "Wed, 11 Nov 2026 16:41:12 +0000",
-          "summary": "Danish shipping giant AP Moller-Maersk has confirmed another cybersecurity breach after hackers gained access to an older IT system and extracted data, nearly a decade after the devastating NotPetya attack that cost the company up to $300m. The Copenhagen-headquartered group said on Wednesday that the incident involved a local legacy system inherited through a previous &#8230;"
+          "title": "Seanergy lines up four more bulkers in $855m fleet push",
+          "link": "https://splash247.com/seanergy-lines-up-four-more-bulkers-in-855m-fleet-push/",
+          "published": "Thu, 12 Nov 2026 18:26:56 +0000",
+          "summary": "Greek capesize specialist Seanergy Maritime has added four more vessels worth $264m to its fleet investment programme, taking its total spending commitments to $855m. The Nasdaq-listed owner, led by Stamatis Tsantanis, disclosed the latest acquisitions in its third-quarter update, with the deals covering two newbuildings and two secondhand bulkers, for arrivals between 2027 and 2029. &#8230;"
         },
         {
-          "title": "Flex LNG lines up $145.5m leaseback",
-          "link": "https://splash247.com/flex-lng-lines-up-145-5m-leaseback/",
-          "published": "Wed, 11 Nov 2026 16:40:00 +0000",
-          "summary": "John Fredriksen-controlled Flex LNG has signed a $145.5m sale-and-leaseback deal for one of its LNG carriers, extending a fleet refinancing programme expected to release another $34m in cash. The New York-listed owner disclosed the agreement with an unnamed Asian leasing company in its third-quarter update. The deal covers the 2018-built, 173,400 cu m Flex Enterprise, &#8230;"
+          "title": "US ethanol industry eyes growing marine fuel market",
+          "link": "https://splash247.com/us-ethanol-industry-eyes-growing-marine-fuel-market/",
+          "published": "Thu, 12 Nov 2026 12:30:00 +0000",
+          "summary": "Ethanol could emerge as an alternative marine fuel for the growing fleet of methanol-capable ships, with existing engines and bunkering infrastructure requiring only limited modifications, according to a new industry study. The report, Marine Ethanol: Unlocking the US Opportunity, published by the Maritime Ethanol &#38; Methanol Alliance (MEMA), says the fuel could support more than &#8230;"
         },
         {
-          "title": "Volare snaps up $210m VLCC in Trafigura-linked deal",
-          "link": "https://splash247.com/volare-snaps-up-210m-vlcc-in-trafigura-linked-deal/",
-          "published": "Wed, 11 Nov 2026 16:39:00 +0000",
-          "summary": "Trafigura-backed tanker owner Volare Shipping has agreed to acquire a VLCC newbuilding from an affiliate of its controlling shareholder for $210m, adding another supertanker to its expanding fleet just weeks after its Oslo market debut. The Euronext Growth-listed company said it had struck a deal for the scrubber-fitted Veni Vidi Vici, which is currently undergoing &#8230;"
+          "title": "Chinese shipbuilder wins AHTS order from South American owner",
+          "link": "https://splash247.com/chinese-shipbuilder-wins-ahts-order-from-south-american-owner/",
+          "published": "Thu, 12 Nov 2026 12:00:00 +0000",
+          "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South American owner. The vessel will measure 71.95 metres long and 17.2 metres wide, with a bollard pull of 110 tonnes. Designed for deepwater anchor-handling and towing &#8230;"
         },
         {
-          "title": "Canada puts Iranian tanker giant back under sanctions",
-          "link": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/",
-          "published": "Wed, 11 Nov 2026 16:38:00 +0000",
-          "summary": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting 11 Iranian entities, including National Iranian Oil Company (NIOC), oil trading group Naftiran Intertrade and several major financial institutions. The measures were announced &#82"
+          "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
+          "link": "https://splash247.com/marine-platforms-plans-full-takeover-of-former-technip-pipelay-vessel/",
+          "published": "Thu, 12 Nov 2026 11:38:00 +0000",
+          "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a 51% interest in the vessel in 2025, with Chinese offshore engineering group DS Global retaining the remaining 49%. Marine Platforms now expects to &#8230;"
         },
         {
-          "title": "Yangzijiang tied to Torm’s LR2 newbuild push",
-          "link": "https://splash247.com/yangzijiang-tied-to-torms-lr2-newbuild-push/",
-          "published": "Wed, 11 Nov 2026 16:35:00 +0000",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has been linked to Danish tanker giant Torm&#8217;s latest LR2 newbuilding venture, putting a name to the mystery partner behind an eight-ship programme announced last week. Shipbuilding sources have identified the Ren Yuanlin-led maritime investment group as Torm&#8217;s partner in the 50:50 joint venture, which will see the vessels built in &#823"
+          "title": "TGS lands seismic contract offshore Namibia",
+          "link": "https://splash247.com/tgs-lands-seismic-contract-offshore-namibia/",
+          "published": "Thu, 12 Nov 2026 10:00:00 +0000",
+          "summary": "Oslo-listed seismic specialist TGS has secured an ocean bottom node contract offshore Namibia from an undisclosed repeat customer. A deepwater crew is scheduled to mobilise in the fourth quarter of 2026, with the survey expected to last approximately 120 days, keeping the crew employed into the second quarter of next year. “We are very pleased &#8230;"
         },
         {
-          "title": "UK taps Ocean Infinity for subsea security push",
-          "link": "https://splash247.com/uk-taps-ocean-infinity-for-subsea-security-push/",
-          "published": "Wed, 11 Nov 2026 11:00:00 +0000",
-          "summary": "UK-based marine robotics specialist Ocean Infinity has been selected as the Royal Navy&#8217;s commercial mission partner for a new underwater surveillance programme backed by an initial £90m ($120m) investment. The company will work with the Royal Navy to develop Atlantic Net, a network of autonomous maritime systems, underwater sensors and artificial intelligence designed to monitor &#8230;"
+          "title": "Brazilian soybean exports smash records",
+          "link": "https://splash247.com/brazilian-soybean-exports-smash-records/",
+          "published": "Thu, 12 Nov 2026 09:11:32 +0000",
+          "summary": "Brazilian soybean exports have smashed all previous records, with shipments during the first ten months of 2026 already exceeding the whole of last year&#8217;s total, providing a significant boost to dry bulk shipping demand, primarily panamaxes and supramaxes. New analysis from Ursa Shipbrokers shows seaborne soybean exports reached 108.4m tonnes between January and October, an &#8230;"
         },
         {
-          "title": "Monjasa seals biggest-ever fleet deal with five-tanker swoop",
-          "link": "https://splash247.com/monjasa-seals-biggest-ever-fleet-deal-with-five-tanker-swoop/",
-          "published": "Wed, 11 Nov 2026 10:02:32 +0000",
-          "summary": "Danish bunker supplier and shipowner Monjasa has acquired five sister product tankers from Germany&#8217;s Bernhard Schulte in its largest-ever fleet deal, strengthening its marine fuels operations in West Africa. The Fredericia-based group has picked up five 2010- and 2011-built tankers of around 16,500 dwt each. The purchase price has not been disclosed. Four vessels, renamed &#8230;"
+          "title": "Why shipowners might be better off sharing profits than taking on debt",
+          "link": "https://splash247.com/why-shipowners-might-be-better-off-sharing-profits-than-taking-on-debt/",
+          "published": "Thu, 12 Nov 2026 08:03:00 +0000",
+          "summary": "Traditional loans demand repayments regardless of freight markets. Earnings-sharing structures offer a different proposition: investors participate in a vessel&#8217;s fortunes while owners retain control. Captain Vikas Pandey from Shipfinex explains. Ship finance looks healthy on paper. Petrofin Research estimates that the top 40 shipping banks grew their portfolios by 6% in 2025 to $300.6bn, and"
         }
       ]
     },
@@ -185,6 +185,36 @@
       "count": 8,
       "items": [
         {
+          "title": "CEO exits from history",
+          "link": "https://www.ft.com/content/b90020cb-a66d-45b5-8456-7fbbc3912aa2",
+          "published": "Thu, 12 Nov 2026 18:03:09 GMT",
+          "summary": "Key man risk"
+        },
+        {
+          "title": "A chicken in every pot and three robotaxis in every garage",
+          "link": "https://www.ft.com/content/a65ba938-5f0c-46db-801b-1a8781930447?syn-25a6b1a6=1",
+          "published": "Thu, 12 Nov 2026 13:11:43 GMT",
+          "summary": "Analysis on autopilot"
+        },
+        {
+          "title": "The present state of US financial enforcement",
+          "link": "https://www.ft.com/content/49994b9f-8d9d-4af7-aefa-bb36bd23fbd0",
+          "published": "Thu, 12 Nov 2026 10:52:06 GMT",
+          "summary": "‘The SEC Enforcement Division’s failures are so extensive that it should be renamed the SEC’s Non-enforcement Division’"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/e3a7b359-77a6-43c5-a4a6-48fffe2161c3",
+          "published": "Thu, 12 Nov 2026 08:11:29 GMT",
+          "summary": "AI; US; work; ‘Spoons; Wood; planes; curry"
+        },
+        {
+          "title": "The bond market is starting to choke on AI debt",
+          "link": "https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b",
+          "published": "Thu, 12 Nov 2026 06:00:02 GMT",
+          "summary": "There aren’t enough baskets to safely cope with this many massive eggs"
+        },
+        {
           "title": "Anthropic’s IPO is too important to fail",
           "link": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
           "published": "Wed, 11 Nov 2026 10:23:49 GMT",
@@ -201,36 +231,6 @@
           "link": "https://www.ft.com/content/0c5f36d5-18e0-408a-852a-f773355a231b",
           "published": "Wed, 11 Nov 2026 08:27:14 GMT",
           "summary": "Google; Anthropic; start-ups; gold; knives; wine; women; songs"
-        },
-        {
-          "title": "One weird trick AI labs could use to save the world",
-          "link": "https://www.ft.com/content/412c9ea6-c54a-4520-879b-10c32992cf6b",
-          "published": "Wed, 11 Nov 2026 06:00:02 GMT",
-          "summary": "An antitrust loophole you can trust?"
-        },
-        {
-          "title": "The index impact of SpaceX’s record-shattering IPO",
-          "link": "https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762",
-          "published": "Tue, 10 Nov 2026 10:11:22 GMT",
-          "summary": "Revisiting the Operation Overlord of IPO stuffing"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/7e6ab5b9-9fed-4d49-ac9d-2596980a28f8",
-          "published": "Tue, 10 Nov 2026 07:13:42 GMT",
-          "summary": "Monetary policy; oil; education; hacking; cannabis; torrents; dragons"
-        },
-        {
-          "title": "Equity volatility is maybe a bit sort-of back",
-          "link": "https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113",
-          "published": "Mon, 09 Nov 2026 15:07:46 GMT",
-          "summary": "Sweat Vix and chill"
-        },
-        {
-          "title": "Are you into weird, esoteric financial history memorabilia?",
-          "link": "https://www.ft.com/content/5c0d0477-39cb-4d7b-80c7-f536ae7d90ee",
-          "published": "Mon, 09 Nov 2026 12:00:01 GMT",
-          "summary": "Then you’re in luck"
         }
       ]
     },
@@ -241,45 +241,45 @@
       "count": 7,
       "items": [
         {
-          "title": "Franco-Nevada declares $0.44 dividend",
-          "link": "https://seekingalpha.com/news/4671095-franco-nevada-declares-0_44-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:34:25 -0500",
+          "title": "BICO Group AB reports Q3 results",
+          "link": "https://seekingalpha.com/news/4672032-bico-group-ab-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 22:10:22 -0500",
           "summary": ""
         },
         {
-          "title": "Tetra Tech declares $0.072 dividend",
-          "link": "https://seekingalpha.com/news/4671094-tetra-tech-declares-0_072-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:32:34 -0500",
+          "title": "Dragonfly projects $12.5M Q4 net sales while targeting adjusted EBITDA breakeven",
+          "link": "https://seekingalpha.com/news/4672033-dragonfly-projects-12_5m-q4-net-sales-while-targeting-adjusted-ebitda-breakeven?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 22:09:58 -0500",
           "summary": ""
         },
         {
-          "title": "Allspring Utilities and High Income Fund declares $0.0859 dividend declines by 1.3% to $0.0859",
-          "link": "https://seekingalpha.com/news/4671093-allspring-utilities-and-high-income-fund-declares-00859-dividend-declines-by-13-to-00859?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:29:31 -0500",
+          "title": "Lifeway outlines Waukesha ramp to more than double bottling speed in Q1 2027, targets 25%+ gross margin",
+          "link": "https://seekingalpha.com/news/4672034-lifeway-outlines-waukesha-ramp-to-more-than-double-bottling-speed-in-q1-2027-targets-25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 22:09:56 -0500",
           "summary": ""
         },
         {
-          "title": "Allspring Multi-Sector Income Fund declares $0.0719 dividend",
-          "link": "https://seekingalpha.com/news/4671092-allspring-multi-sector-income-fund-declares-0_0719-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:29:17 -0500",
+          "title": "Recordati reports 9M results",
+          "link": "https://seekingalpha.com/news/4672031-recordati-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 22:06:27 -0500",
           "summary": ""
         },
         {
-          "title": "Allspring Income Opportunities Fund declares $0.0523 dividend",
-          "link": "https://seekingalpha.com/news/4671091-allspring-income-opportunities-fund-declares-0_0523-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:28:29 -0500",
+          "title": "Recruit Holdings GAAP EPS of ¥159.54, revenue of ¥1.09T",
+          "link": "https://seekingalpha.com/news/4672030-recruit-holdings-gaap-eps-of-15954-revenue-of-109t?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 22:01:16 -0500",
           "summary": ""
         },
         {
-          "title": "Allspring Global Dividend Opportunity Fund raises dividend by 3.2% to $0.153",
-          "link": "https://seekingalpha.com/news/4671090-allspring-global-dividend-opportunity-fund-raises-dividend-by-32-to-0153?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:25:02 -0500",
+          "title": "Singapore charges fifth suspect in alleged Nvidia server export fraud case: report",
+          "link": "https://seekingalpha.com/news/4671359-singapore-charges-fifth-suspect-in-alleged-nvidia-server-export-fraud-case-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 21:59:58 -0500",
           "summary": ""
         },
         {
-          "title": "Sempra declares $0.6575 dividend",
-          "link": "https://seekingalpha.com/news/4671089-sempra-declares-0_6575-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 11 Nov 2026 22:24:34 -0500",
+          "title": "Izea expects Q4 revenue of $7.5M-$8.1M following $7M Q3 managed services bookings",
+          "link": "https://seekingalpha.com/news/4672029-izea-expects-q4-revenue-of-7_5m-8_1m-following-7m-q3-managed-services-bookings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 12 Nov 2026 21:59:54 -0500",
           "summary": ""
         }
       ]
@@ -290,6 +290,24 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+          "published": "Thu, 12 Nov 2026 18:30:00 GMT",
+          "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
+        },
+        {
+          "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+          "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+          "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+          "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+          "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank"
+        },
         {
           "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
@@ -319,24 +337,6 @@
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
           "published": "Fri, 16 Oct 2026 15:00:00 GMT",
           "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
-        },
-        {
-          "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-          "published": "Tue, 13 Oct 2026 18:00:00 GMT",
-          "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
-        },
-        {
-          "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-          "published": "Fri, 9 Oct 2026 14:00:00 GMT",
-          "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families"
-        },
-        {
-          "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-          "published": "Thu, 8 Oct 2026 20:30:00 GMT",
-          "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
         }
       ]
     },
@@ -347,52 +347,52 @@
       "count": 8,
       "items": [
         {
-          "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-          "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-          "published": "Thu, 12 Nov 2026 03:15:00 GMT",
-          "summary": "There is already a demographic ‘run’ on Social Security."
+          "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+          "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 22:57:00 GMT",
+          "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy"
         },
         {
-          "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-          "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-          "published": "Thu, 12 Nov 2026 03:10:00 GMT",
-          "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes"
+          "title": "Opening trading-card packs has become a $2 billion market",
+          "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 22:38:00 GMT",
+          "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks."
         },
         {
-          "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-          "published": "Thu, 12 Nov 2026 02:52:00 GMT",
-          "summary": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate."
+          "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+          "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 22:16:00 GMT",
+          "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets."
         },
         {
-          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-          "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-          "published": "Thu, 12 Nov 2026 02:45:00 GMT",
-          "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”"
+          "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+          "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 22:00:00 GMT",
+          "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”"
         },
         {
-          "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-          "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-          "published": "Thu, 12 Nov 2026 02:31:00 GMT",
-          "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”"
+          "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+          "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 21:55:00 GMT",
+          "summary": "More people want to understand the fine print on plans this year, financial planners say."
         },
         {
-          "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-          "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-          "published": "Thu, 12 Nov 2026 01:12:00 GMT",
-          "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers."
+          "title": "The 10 best stocks for a year-end momentum trade",
+          "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 21:50:00 GMT",
+          "summary": "Why December is the best month of the year for momentum strategies"
         },
         {
-          "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-          "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-          "published": "Wed, 11 Nov 2026 23:30:00 GMT",
-          "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it."
+          "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+          "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 21:30:00 GMT",
+          "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”"
         },
         {
-          "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-          "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-          "published": "Wed, 11 Nov 2026 22:05:00 GMT",
-          "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector."
+          "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+          "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+          "published": "Thu, 12 Nov 2026 21:08:00 GMT",
+          "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board."
         }
       ]
     },
@@ -403,52 +403,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
-          "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-          "published": "Thu, 12 Nov 2026 01:13:24 GMT",
-          "summary": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy"
+          "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+          "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+          "published": "Thu, 12 Nov 2026 23:35:11 GMT",
+          "summary": "Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy"
         },
         {
-          "title": "Inside Ken Griffin’s $5bn Miami takeover",
-          "link": "https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1",
-          "published": "Wed, 11 Nov 2026 05:00:02 GMT",
-          "summary": "The billionaire wanted to mould his ideal city — and found his clout went further in Florida"
+          "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+          "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+          "published": "Thu, 12 Nov 2026 23:26:26 GMT",
+          "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO"
         },
         {
-          "title": "Can India clean up Delhi’s deadly smog?",
-          "link": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
-          "published": "Thu, 12 Nov 2026 00:08:12 GMT",
-          "summary": "Residents ask why a country that can land a spacecraft on the Moon cannot prevent citizens in its capital choking on bad air"
+          "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+          "link": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+          "published": "Fri, 13 Nov 2026 00:07:33 GMT",
+          "summary": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom"
         },
         {
-          "title": "Three cheers for an independent American judiciary",
-          "link": "https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1",
-          "published": "Wed, 11 Nov 2026 05:00:12 GMT",
-          "summary": "Strong rulings to protect electoral integrity helped pave the way for a peaceful and decisive midterm vote"
+          "title": "The Silicon Valley veterans now steering Nvidia",
+          "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
+          "published": "Fri, 13 Nov 2026 01:42:30 GMT",
+          "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure"
         },
         {
-          "title": "Scott Colom wins historic Senate race in Mississippi",
-          "link": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
-          "published": "Thu, 12 Nov 2026 00:24:56 GMT",
-          "summary": "Democrat becomes the first Black person to represent the state since Reconstruction era"
+          "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+          "link": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+          "published": "Thu, 12 Nov 2026 22:50:43 GMT",
+          "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear"
         },
         {
-          "title": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats",
-          "link": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
-          "published": "Wed, 11 Nov 2026 15:39:44 GMT",
-          "summary": "Incidents appear to be latest co-ordinated attack aimed at disrupting life in Europe"
+          "title": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+          "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+          "published": "Fri, 13 Nov 2026 02:08:58 GMT",
+          "summary": "American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security"
         },
         {
-          "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
-          "link": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
-          "published": "Wed, 11 Nov 2026 21:01:55 GMT",
-          "summary": "Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’"
+          "title": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
+          "link": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1",
+          "published": "Thu, 12 Nov 2026 14:29:01 GMT",
+          "summary": "Army struggles to intercept Russian jet-powered drones, just as Steve Witkoff and Jared Kushner meet Vladimir Putin"
         },
         {
-          "title": "China warns of ‘severe’ punishment for offshore trust tax evaders",
-          "link": "https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1",
-          "published": "Thu, 12 Nov 2026 02:55:28 GMT",
-          "summary": "Revenue from personal income tax jumps 90 per cent as scrutiny tightens over the country’s wealthiest"
+          "title": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
+          "link": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1",
+          "published": "Thu, 12 Nov 2026 22:45:07 GMT",
+          "summary": "Prediction market platform ends advisory deal amid mounting political scrutiny and rival investments in Polymarket"
         }
       ]
     },
