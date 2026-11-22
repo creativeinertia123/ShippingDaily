@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-21T03:51:14+00:00",
-  "take": "Brent tumbled 5% to $91 this week even as tankers are hit daily, because recovering Gulf flows and a looming surplus are outweighing geopolitical risk, and the EIA's 19% third-quarter increase in Middle East chokepoint shipments underscores that supply is moving rather than being strangled. The macro cross-current is a violent risk-off in US tech—the Nasdaq's worst week since 2020 and a $2.3 trillion chip wipeout—which threatens demand sentiment and paper length across the energy complex, whilst Trump's consideration of new Iran strikes cuts the other way and keeps a geopolitical bid lurking under the surface. On positioning, the third straight weekly decline in crude tells you the market is trading the glut narrative, and the distillate-heavy refinery yield shift plus Lufthansa cutting up to 1,000 jobs on high fuel costs flags jet and middle-distillate demand destruction that could soften the products crack. Watch the gasoil-bunker and distillate cracks against the flat price—if middle distillates hold whilst crude slides, the refinery yield shift is doing real work and the products complex is the cleaner short. In the next 24 hours, watch for any escalation or de-escalation on Iran strikes, the follow-through in Asian equity and FX markets at the Monday open, and whether the rig count rising into falling prices starts to bend the US supply narrative.",
+  "generated_at_utc": "2026-11-22T02:55:12+00:00",
+  "take": "Middle East chokepoint flows rose 19% in 3Q26, a reminder that physical supply routes remain concentrated and headline-sensitive even as agency reports flag a looming surplus, keeping crude in its narrow range and product cracks hostage to any disruption premium. On the shipping side, a bloody week in the Persian Gulf and around the Black Sea alongside Scotland’s consent for the 1GW Muir Mhòr floating wind farm and Seaway 7’s three-vessel Berwick Bank B deployment underline that tonne-miles are being reshaped by both conflict risk and offshore wind build-out, with the latter slowly displacing some fossil freight demand. The inventory angle is thin but pointed: US natural gas storage ended the injection season at 3,810 Bcf, almost 2% above the five-year average, capping upside for gas-linked power and indirectly for distillate demand into winter. Cross-market, watch the middle-distillate tilt in refinery yields against bunker economics, as high distillate and jet margins keep pulling barrels away from the bottom of the barrel whilst Alaskan crude output is forecast to grow 13% in 2027, adding medium-term length to US supply. Over the next 24 hours, track any escalation in Gulf or Black Sea shipping incidents and the House’s next move on the permitting bill, both of which could shift the balance between glut expectations and risk premium.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,42 @@
       "count": 8,
       "items": [
         {
+          "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
+          "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
+          "published": "Sat, 21 Nov 2026 18:00:00 -0600",
+          "summary": "The information technology industry is driving massive growth in global electricity demand, which is set to rise by more than 10,000 TWh over the next ten years. For this electricity to reach demand hubs, grids around the world will need urgent upgrades. The big question is who will pay for it. In its World Energy Outlook released this week, the International Energy Agency once again joined the gr"
+        },
+        {
+          "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
+          "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
+          "published": "Sat, 21 Nov 2026 16:00:00 -0600",
+          "summary": "A new report from Ember Energy shows the enormous cost-saving potential of wind energy. While solar power and battery storage have taken off on a global level, wind power has been slower to expand. But according to the new report from the prominent energy think tank, this is a major missed opportunity for energy security, emissions goals, and economic returns. “Solar and batteries can already deli"
+        },
+        {
+          "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
+          "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
+          "published": "Sat, 21 Nov 2026 14:00:00 -0600",
+          "summary": "United States President Trump has doubled down on his support for fossil fuels since coming into office almost two years ago, including the most polluting of them all – coal. Just as many coal plants were on their way to retirement, Trump stepped in and stopped them from closing, backing his decision with federal funds. Recent assessments suggest that the move has cost U.S. taxpayers billions of d"
+        },
+        {
+          "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
+          "published": "Sat, 21 Nov 2026 13:10:00 -0600",
+          "summary": "Gasoline prices have fallen nearly 60 cents in a month, but Americans heading out for Thanksgiving could still pay more at the pump than during any previous Thanksgiving. The national average fell to $3.69 per gallon on Friday, according to AAA, down from approximately $4.30 a month ago. GasBuddy expects prices to average $3.62 on Thanksgiving Day, which would surpass the previous holiday record o"
+        },
+        {
+          "title": "Britain's Net Zero Revolution Has a China Problem",
+          "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+          "published": "Sat, 21 Nov 2026 12:00:00 -0600",
+          "summary": "The Labour government has been accused of “capitulation” in its trade relations with China as Britain’s transition to net zero faces a number of security risks. A new report, published shortly before President Trump’s momentous trilateral meeting with Xi Jinping and Vladimir Putin, has highlighted the UK’s dependence on China for net zero-related technology and potential vulnerabilities in supply "
+        },
+        {
+          "title": "UK Races to Rewrite Nuclear Rules by 2027",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
+          "published": "Sat, 21 Nov 2026 10:00:00 -0600",
+          "summary": "As part of its green transition plans, the U.K. government aims to accelerate the development of nuclear power. The government is already doubling down on expanding its renewable energy capacity, and it hopes nuclear power will become a major contributor to a more diverse energy mix that will support its decarbonisation aims. To achieve greater nuclear power deployment, the government plans to com"
+        },
+        {
           "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
           "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
           "published": "Fri, 20 Nov 2026 18:00:00 -0600",
@@ -75,42 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
           "published": "Fri, 20 Nov 2026 16:00:00 -0600",
           "summary": "Argentina’s energy sector is having a banner year. The first half of 2026 saw the South American nation’s best energy trade balance in half a decade as exports boomed thanks to a drop in exports out of the Middle East and strong production numbers out of the Vaca Muerta shale play. And Argentina’s energy export boom isn’t over. This week, major underwriter Banco Santander announced that a wave of "
-        },
-        {
-          "title": "US Data Center Boom Faces a New Political Reality",
-          "link": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html",
-          "published": "Fri, 20 Nov 2026 13:00:00 -0600",
-          "summary": "Starting in January, Democratic governors will lead US states that together hold 77% of the 300 gigawatts (GW) of data center capacity announced for 2027-2030, including the five largest markets: Texas, Virginia, Pennsylvania, Ohio and Georgia. Most of the winning candidates campaigned on making data centers pay their grid costs, rather than on stopping them, so the midterms are likely to change t"
-        },
-        {
-          "title": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Expands-Oil-Storage-in-Japan-as-Tokyo-Restocks.html",
-          "published": "Fri, 20 Nov 2026 12:30:00 -0600",
-          "summary": "Japan plans to buy up to 8 million barrels of Saudi crude for the national petroleum reserve it drew down during the Hormuz crisis, under a deal the two countries announced on Friday that makes the purchases subject to favorable market conditions. The deal also gives Saudi Arabia temporary use of an additional 16 million barrels of storage capacity in Japan, expanding the 8 million barrels it alre"
-        },
-        {
-          "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
-          "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
-          "published": "Fri, 20 Nov 2026 12:09:09 -0600",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 607, up 53 from this same time last year. The number of active oil rigs rose by 6 to 469 during the latest reporting period, according to the data. This is 50 above this same time last year. The numbe"
-        },
-        {
-          "title": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Lufthansa-to-Slash-1000-Jobs-as-Airlines-Reel-from-High-Fuel-Costs.html",
-          "published": "Fri, 20 Nov 2026 11:30:00 -0600",
-          "summary": "Europe’s biggest airline group, Lufthansa, plans to eliminate as many as 1,000 jobs and reduce capacity on short and medium-haul destinations, Bloomberg reported on Friday, citing a letter to employees it had seen. Lufthansa and all other airlines have struggled this year with increasing pressure on profits from soaring fuel prices amid the Middle East conflict. Spiking crude and jet fuel prices a"
-        },
-        {
-          "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
-          "published": "Fri, 20 Nov 2026 11:11:05 -0600",
-          "summary": "Brent tumbled 5% to $91 this week, as recovering Gulf oil flows outweigh tanker attacks, Houthi threats and escalating geopolitical tensions. Friday, November 20, 2026 Oil prices are set to post a 5% weekly drop as sentiment is still swayed by ample Middle Eastern barrels flowing to Asian customers. That said, none of the bullish factors of the past months have lost their relevance – Iranian drone"
-        },
-        {
-          "title": "The 2026 Midterms Have Changed the Battle for American Energy",
-          "link": "https://oilprice.com/Energy/Energy-General/The-2026-Midterms-Have-Changed-the-Battle-for-American-Energy.html",
-          "published": "Fri, 20 Nov 2026 11:00:00 -0600",
-          "summary": "The 2026 midterm elections produced a major political shift in Washington. Democrats will control both chambers of Congress when the new session begins in January, during President Donald Trump’s final two years in the White House. That combination almost guarantees more conflict over energy policy, but it does not necessarily mean sweeping changes in federal law. The more consequential changes ma"
         }
       ]
     },
@@ -241,45 +241,45 @@
       "count": 7,
       "items": [
         {
-          "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
-          "link": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 19:10:24 -0500",
+          "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",
+          "link": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 21:30:34 -0500",
           "summary": ""
         },
         {
-          "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
-          "link": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 18:16:36 -0500",
+          "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+          "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 15:15:24 -0500",
           "summary": ""
         },
         {
-          "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
-          "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 17:50:24 -0500",
+          "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
+          "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 14:46:27 -0500",
           "summary": ""
         },
         {
-          "title": "Orange County Bancorp raises dividend by 27.85 to $0.23",
-          "link": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 17:40:25 -0500",
+          "title": "Trump to work with Dems to cap credit card interest rates",
+          "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 13:34:27 -0500",
           "summary": ""
         },
         {
-          "title": "United Fire declares $0.20 dividend",
-          "link": "https://seekingalpha.com/news/4675379-united-fire-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 17:38:17 -0500",
+          "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+          "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 13:04:35 -0500",
           "summary": ""
         },
         {
-          "title": "Bentley Systems raises dividend by 14.3% to $0.08",
-          "link": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 17:37:34 -0500",
+          "title": "Tesla to launch FSD 15 next month, Elon Musk says",
+          "link": "https://seekingalpha.com/news/4675395-tesla-launch-fsd-15-next-month-elon-musk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 12:23:56 -0500",
           "summary": ""
         },
         {
-          "title": "Donaldson declares $0.32 dividend",
-          "link": "https://seekingalpha.com/news/4675377-donaldson-declares-0_32-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Fri, 20 Nov 2026 17:35:51 -0500",
+          "title": "SA Asks: Who's the best-positioned cybersecurity provider right now?",
+          "link": "https://seekingalpha.com/news/4675381-sa-asks-whos-the-best-positioned-cybersecurity-provider-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Sat, 21 Nov 2026 12:00:22 -0500",
           "summary": ""
         }
       ]
@@ -347,52 +347,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-          "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-          "published": "Sat, 21 Nov 2026 03:20:00 GMT",
-          "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst."
+          "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+          "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+          "published": "Sun, 22 Nov 2026 01:15:00 GMT",
+          "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”"
         },
         {
-          "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-          "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 22:46:00 GMT",
-          "summary": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025."
+          "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+          "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+          "published": "Sun, 22 Nov 2026 00:03:00 GMT",
+          "summary": "“Hotel rooms can cost as much as $400 per night.”"
         },
         {
-          "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-          "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 22:44:00 GMT",
-          "summary": "A major semiconductor index just posted its worst weekly performance in 25 years."
+          "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+          "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+          "published": "Sat, 21 Nov 2026 23:05:00 GMT",
+          "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”"
         },
         {
-          "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-          "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 22:44:00 GMT",
-          "summary": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them."
+          "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+          "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+          "published": "Sat, 21 Nov 2026 20:15:00 GMT",
+          "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”"
         },
         {
-          "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-          "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 21:58:00 GMT",
-          "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions."
+          "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+          "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+          "published": "Sat, 21 Nov 2026 19:45:00 GMT",
+          "summary": "“Our financial and healthcare situation has become increasingly concerning.”"
         },
         {
-          "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-          "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-          "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off."
+          "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+          "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+          "published": "Sat, 21 Nov 2026 19:45:00 GMT",
+          "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say."
         },
         {
-          "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-          "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-          "summary": "A looming oversupply problem could weigh on the stock over the next year"
+          "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+          "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+          "published": "Sat, 21 Nov 2026 18:20:00 GMT",
+          "summary": "This one, simple, low-pain tax solves all the problems."
         },
         {
-          "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-          "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-          "published": "Fri, 20 Nov 2026 21:36:00 GMT",
-          "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts."
+          "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+          "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+          "published": "Sat, 21 Nov 2026 18:19:00 GMT",
+          "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming."
         }
       ]
     },
@@ -403,52 +403,52 @@
       "count": 8,
       "items": [
         {
-          "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-          "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 21:52:25 GMT",
-          "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street"
+          "title": "Alice Huang’s links to the chip underworld",
+          "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 17:00:10 GMT",
+          "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China"
         },
         {
-          "title": "Nvidia faces US regulator’s probe into its accounting",
-          "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 21:58:08 GMT",
-          "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation"
+          "title": "Nvidia affair puts Chinese spies in spotlight",
+          "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 03:58:46 GMT",
+          "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability"
         },
         {
-          "title": "Inside Anthropic’s historic IPO",
-          "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 21:21:29 GMT",
-          "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?"
+          "title": "The AI cyber threat is already here",
+          "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 05:00:16 GMT",
+          "summary": "The freezer war is just a start"
         },
         {
-          "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-          "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-          "published": "Fri, 20 Nov 2026 20:19:49 GMT",
-          "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year"
+          "title": "The dead hand of history weighs on Deutsche Bank",
+          "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
+          "published": "Sat, 21 Nov 2026 06:32:26 GMT",
+          "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around"
         },
         {
-          "title": "The AI fever in markets is breaking",
-          "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 15:23:38 GMT",
-          "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades"
+          "title": "The manufacturing of novelty",
+          "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 05:00:36 GMT",
+          "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things"
         },
         {
-          "title": "’Tis the season to be grateful to China",
-          "link": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 18:57:07 GMT",
-          "summary": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate"
+          "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+          "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 17:21:36 GMT",
+          "summary": "Acquisition would help AWS compete with Nvidia in race for computing power"
         },
         {
-          "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
-          "link": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 21:05:48 GMT",
-          "summary": "Consumers have already spent more on the video game than the top-grossing movie"
+          "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+          "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 16:19:19 GMT",
+          "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress"
         },
         {
-          "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
-          "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
-          "published": "Fri, 20 Nov 2026 15:57:09 GMT",
-          "summary": "Brussels agreement overshadowed by dispute over university fees and questions about where the relationship goes next"
+          "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+          "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+          "published": "Sat, 21 Nov 2026 21:28:05 GMT",
+          "summary": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US"
         }
       ]
     },
